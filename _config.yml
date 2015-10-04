@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Gerald
+tagline:             'with poetic licence'
+description:         'Description here . . . '
+url:                 http://gerald.nz
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Gerald Lee Jordan
+  url:               https://twitter.com/geraldleejordan
+  email:             jerryleejordan@gmail.com
+
+# Custom vars
+version:             1.0.0
