@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Narrative Therapy
+categories: [depression, terminology]
+published: true
+sitemap:
+  lastmod: 2015-03-22
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'no'
 ---
 
 We all have “narratives” or stories that we construct about our lives. The events around us are not quite as objective as we often like to imagine. We take information, feelings, reactions, instincts and we filter events, creating our own stories of what has happened. This active construction of “reality” is understood, analysed and utilised in Narrative Therapy.
