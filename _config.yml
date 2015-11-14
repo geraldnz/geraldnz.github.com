@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:               Gerald
 tagline:             'counselling wellington resources'
-description:         'Description here . . . '
+description:         'Counselling services and resources for Wellington and online therapy'
 url:                 http://gerald.nz
 baseurl:             /
 paginate:            5
