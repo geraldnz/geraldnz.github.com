@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Narrative Therapy
-categories: [depression, terminology]
+categories: [narrativetherapy, terminology]
 published: true
 sitemap:
   lastmod: 2015-03-22
