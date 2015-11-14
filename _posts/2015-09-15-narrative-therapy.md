@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Narrative Therapy
+title: What is Narrative Therapy
 categories: [narrativetherapy, terminology]
 published: true
 sitemap:
