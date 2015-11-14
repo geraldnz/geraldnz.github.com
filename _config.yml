@@ -9,7 +9,7 @@ title:               Gerald
 tagline:             'therapy - poetry'
 description:         'Description here . . . '
 url:                 http://gerald.nz
-baseurl:             'http://gerald.nz'
+baseurl:             http://gerald.nz
 paginate:            5
 
 # About/contact
