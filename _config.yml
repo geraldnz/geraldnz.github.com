@@ -1,7 +1,9 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:        pretty
 relative_permalinks: true
 
 # Setup
@@ -9,7 +11,7 @@ title:               Gerald
 tagline:             'counselling wellington resources'
 description:         'Description here . . . '
 url:                 http://gerald.nz
-baseurl:             http://gerald.nz
+baseurl:             /
 paginate:            5
 
 # About/contact
