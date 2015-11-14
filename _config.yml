@@ -21,10 +21,4 @@ author:
 # Custom vars
 version:             1.0.0
 
-# Twitter plugin (added by Jerry)
 
-twitter:
-  consumer_key: asdf
-  consumer_secret: asdf
-  access_token: asdf
-  access_token_secret: asdf
