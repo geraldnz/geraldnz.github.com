@@ -7,15 +7,16 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
+
 <div> {% include twitter.html %}</div>
 
 <div class="related">
-  <h2>Other posts</h2>
+  <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
         <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
+          <a href="{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
