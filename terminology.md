@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glossary
+title: Terminology
 ---
 
 The terms used on this site are defined below.
