@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Narrative Therapy
-categories: [narrativetherapy, terminology]
+categories: [therapies, terminology]
 published: true
 sitemap:
   lastmod: 2015-09-15
