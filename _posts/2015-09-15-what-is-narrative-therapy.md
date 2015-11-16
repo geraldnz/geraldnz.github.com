@@ -4,7 +4,7 @@ title: What is Narrative Therapy
 categories: [narrativetherapy, terminology]
 published: true
 sitemap:
-  lastmod: 2015-03-22
+  lastmod: 2015-09-15
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
