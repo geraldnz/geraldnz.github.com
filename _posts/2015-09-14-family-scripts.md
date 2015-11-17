@@ -16,4 +16,4 @@ Thus, various family members take upon themselves (or have thrust upon them) cer
 
 The idea is that these scripts are unspoken and family members do not consciously know that they are acting a given part in the family drama. Attempts to change the script can cause hostile reactions from other family members, who do not want someone affecting their own roles.
 
-Part of applying family script techniques to family counselling involves the therapist helping the family members understand their roles and coming up with improved ways of understanding and relating to each other.
+Part of applying family script techniques to <a href="family-counselling/" title="family counselling">family counselling</a> involves the therapist helping the family members understand their roles and coming up with improved ways of understanding and relating to each other.
