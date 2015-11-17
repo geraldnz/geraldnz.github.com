@@ -25,3 +25,4 @@ version:             1.0.0
 
 #Added by Jerry
 timezone: Pacific/Auckland
+include: [terms]
