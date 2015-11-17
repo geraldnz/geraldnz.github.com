@@ -10,7 +10,7 @@ sitemap:
   exclude: 'no'
 ---
 
-We all have “narratives” or stories that we construct about our lives. The events around us are not quite as objective as we often like to imagine. We take information, feelings, reactions, instincts and we filter events, creating our own stories of what has happened. This active construction of “reality” is understood, analysed and utilised in Narrative Therapy.
+We all have “narratives” or stories that we construct about our lives. The events around us are not quite as objective as we often like to imagine. We take information, feelings, reactions, instincts and we filter events, creating our own stories of what has happened. This active construction of “reality” is understood, analysed and utilised in <span class="highlight">Narrative Therapy</span>.
 
 Unlike in some therapeutic approaches where the therapist is an “expert”, the Narrative therapist realises that the client is the expert in his or her own life. By working through the narratives of a client’s life – most specifically those that are problematic for current functioning – the client and therapist are able to develop “richer” narratives, which aid the individual with conflict resolution and creating a perspective of self and the world which assist in sounder mental health. In this context, the therapist is a collaborator with the client, helping construct revised meaning.
 
