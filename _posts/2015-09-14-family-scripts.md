@@ -10,7 +10,7 @@ sitemap:
   exclude: 'no'
 ---
 
-Family scripts are a conceptualisation which can aid therapists in working with families. The idea is that families have accustomed ways of interacting with each other and these shared stories can be woven not only into the fabric of the nuclear family, but can also take place in trans-generational contexts.
+<span class="highlight">Family scripts</span> are a conceptualisation which can aid therapists in working with families. The idea is that families have accustomed ways of interacting with each other and these shared stories can be woven not only into the fabric of the nuclear family, but can also take place in trans-generational contexts.
 
 Thus, various family members take upon themselves (or have thrust upon them) certain “parts” in the play that is the life of the family. An abusive father may have himself been brutalised and then treats his son in the same way, who then takes the position of his father in this script, when he becomes a father himself.
 
