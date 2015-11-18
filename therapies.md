@@ -3,7 +3,7 @@ layout: page
 title: therapies
 ---
 
-The pages related to this topic are listed below.
+The pages related to this topic are linked, below.
 
  <ul>
  {% assign sorted_posts = (site.categories.['therapies'] | sort: 'title') %}
