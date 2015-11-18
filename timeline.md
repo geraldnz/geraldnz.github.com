@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timeline
+title: timeline
 ---
 
 The posts on this site are listed below in sequence from newer to older.
