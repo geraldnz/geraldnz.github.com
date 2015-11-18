@@ -12,6 +12,6 @@ sitemap:
 
 Title 
 
-<span class="highlight">highlight</span> 
+<span class="highlight">All-or-Nothing Thinking</span> 
 
 <a href="/family-counselling/" title="family counselling">family counselling</a> 
