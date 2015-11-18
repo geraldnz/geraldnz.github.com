@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Therapies
+title: therapies
 ---
 
 The pages related to this topic are listed below.
