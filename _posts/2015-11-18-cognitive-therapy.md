@@ -4,7 +4,7 @@ title: Cognitive Therapy
 categories: [therapies, terminology]
 published: true
 sitemap:
-  lastmod: 2015-11-17
+  lastmod: 2015-11-18
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
