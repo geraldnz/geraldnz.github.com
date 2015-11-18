@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gerald
+title: about
 ---
 
 <p class="message">
