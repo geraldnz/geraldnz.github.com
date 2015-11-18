@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: blog
 ---
 
 My posts of a more personal nature are listed below in sequence from newer to older.
