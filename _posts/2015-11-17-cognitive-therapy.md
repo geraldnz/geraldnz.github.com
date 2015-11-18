@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cognitive Therapy
-categories: [cbt, terminology]
+categories: [therapies, terminology]
 published: false
 sitemap:
   lastmod: 2015-11-17
@@ -11,3 +11,7 @@ sitemap:
 ---
 
 Title 
+
+<span class="highlight">highlight</span> 
+
+<a href="/family-counselling/" title="family counselling">family counselling</a> 
