@@ -3,7 +3,7 @@ layout: page
 title: quotes
 ---
 
-The terms used on this site are defined below.
+The pages related to this topic are linked, below.
 
  <ul>
  {% assign sorted_posts = (site.categories.['quotes'] | sort: 'title') %}
