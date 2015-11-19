@@ -268,3 +268,9 @@ a:focus {
 .content a {
   text-decoration: underline;
 }
+
+.sidebar-about a:hover,
+a:focus {
+  color: #FFFACD;
+}
+
