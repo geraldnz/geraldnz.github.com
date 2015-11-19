@@ -260,17 +260,12 @@ span.highlight {
   color: #FFFACD;
 }
 
-a:hover,
+.sidebar a:hover,
 a:focus {
   color: #FFFACD;
 }
 
 .content a {
   text-decoration: underline;
-}
-
-.sidebar-about a:hover,
-a:focus {
-  color: #FFFACD;
 }
 
