@@ -269,3 +269,7 @@ a:focus {
   text-decoration: underline;
 }
 
+.post-title a {
+  text-decoration: none;
+}
+}
