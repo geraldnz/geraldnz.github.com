@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Fees and Services
-categories: [services]
+categories: [about]
 published: true
 sitemap:
-  lastmod: 2015-11-18
+  lastmod: 2015-11-19
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
