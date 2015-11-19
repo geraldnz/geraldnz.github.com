@@ -265,7 +265,6 @@ a:focus {
   color: #FFFACD;
 }
 
-.content a:hover,
-a:focus {
-  color: #FFFACD;
+.content a {
+  text-decoration: underline;
 }
