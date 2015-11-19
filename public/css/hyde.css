@@ -259,3 +259,8 @@ span.highlight {
   font-weight: bold;
   color: #FFFACD;
 }
+
+a:hover,
+a:focus {
+  color: #FFFACD;
+}
