@@ -1,6 +1,6 @@
 ---
 layout: page
-title: quotes
+title: inspiration
 ---
 
 The pages related to this topic are linked, below.
