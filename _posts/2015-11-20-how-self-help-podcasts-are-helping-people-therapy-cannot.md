@@ -12,7 +12,7 @@ sitemap:
 
 In the article linked to from my tweet, the author believes that podcasts are a way to provide help to many who could not otherwise receive mental health assistance:
 
-"self-help books, articles and websites are the best candidates for filling the gap and providing easily accessible information, support and interventions for those for whom personal therapy is not an option (for geographic, financial, logistic, or other reasons).
+"I went on to make the point that self-help books, articles and websites are the best candidates for filling the gap and providing easily accessible information, support and interventions for those for whom personal therapy is not an option (for geographic, financial, logistic, or other reasons).
 
 I now believe there is an even better option—podcasts."<sup>1</sup>
 
