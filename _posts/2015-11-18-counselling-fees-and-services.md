@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fees and Services
+title: Counselling Fees and Services
 categories: [about]
 published: true
 sitemap:
-  lastmod: 2015-11-19
+  lastmod: 2015-11-28
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
