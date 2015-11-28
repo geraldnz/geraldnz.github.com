@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:               Gerald
-tagline:             'counselling wellington resources'
-description:         'counselling services'
+tagline:             'counselling and elearning resources online wellington'
+description:         'counsellor and educator'
 url:                 http://gerald.nz
 baseurl:             /
 paginate:            5
