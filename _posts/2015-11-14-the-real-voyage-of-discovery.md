@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Real Voyage of Discovery
-categories: [quotes]
+categories: [quotations]
 published: true
 sitemap:
   lastmod: 2015-11-24
