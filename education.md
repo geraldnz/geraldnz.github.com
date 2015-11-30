@@ -1,6 +1,6 @@
 ---
 layout: page
-title: families
+title: education
 ---
 
 The pages related to this topic are linked, below.
