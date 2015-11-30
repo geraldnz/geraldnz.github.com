@@ -5,11 +5,4 @@ title: therapies
 
 The pages related to this topic are linked, below.
 
- <ul>
- {% assign sorted_posts = (site.categories.['therapies'] | sort: 'title') %}
-{% for post in sorted_posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+<a href="http://gerald.nz/categories/familytherapy.html" title="family therapy">family therapy</a>
