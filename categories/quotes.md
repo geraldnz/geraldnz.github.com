@@ -1,6 +1,7 @@
 ---
 layout: page
 title: quotes
+exclude: true
 ---
 
 The pages related to this topic are linked, below.
