@@ -2,7 +2,7 @@
 layout: post
 title: Education
 categories: [education, terminology]
-published: false
+published: true
 sitemap:
   lastmod: 2015-11-17
   priority: 0.7
