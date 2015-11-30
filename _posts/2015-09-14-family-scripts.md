@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Family Scripts
-categories: [families, terminology]
+categories: [familytherapy, terminology]
 published: true
 sitemap:
   lastmod: 2015-11-14
