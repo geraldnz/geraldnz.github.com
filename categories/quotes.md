@@ -1,7 +1,6 @@
 ---
 layout: page
 title: quotes
-active: false
 ---
 
 The pages related to this topic are linked, below.
