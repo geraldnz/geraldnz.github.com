@@ -1,6 +1,6 @@
 ---
 layout: post
-title: education
+title: Education
 categories: [education, terminology]
 published: true
 sitemap:
