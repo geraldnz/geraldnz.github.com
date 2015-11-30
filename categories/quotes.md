@@ -1,7 +1,7 @@
 ---
 layout: page
 title: quotes
-exclude_from_nav: true
+active: false
 ---
 
 The pages related to this topic are linked, below.
