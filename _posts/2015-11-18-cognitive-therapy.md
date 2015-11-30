@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cognitive Therapy
-categories: [therapies, terminology]
+categories: [cognitivetherapy, terminology]
 published: true
 sitemap:
   lastmod: 2015-11-18
