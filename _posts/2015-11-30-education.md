@@ -4,7 +4,7 @@ title: Education
 categories: [education, terminology]
 published: true
 sitemap:
-  lastmod: 2015-11-17
+  lastmod: 2015-11-30
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
