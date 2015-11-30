@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All-or-Nothing Thinking
-categories: [therapies, terminology]
+categories: [cognitivetherapy, terminology]
 published: false
 sitemap:
   lastmod: 2015-11-18
