@@ -16,7 +16,6 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      { unless page.exclude_from_nav }
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -25,7 +24,6 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      { endunless }
     </nav>
 
     <p>&copy; 2014 - {{ site.time | date: '%Y' }}</p>
