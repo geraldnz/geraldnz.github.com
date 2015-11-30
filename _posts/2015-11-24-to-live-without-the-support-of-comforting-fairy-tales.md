@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To Live Without the Support of Comforting Fairy Tales
-categories: [quotes]
+categories: [quotations]
 published: true
 sitemap:
   lastmod: 2015-11-24
