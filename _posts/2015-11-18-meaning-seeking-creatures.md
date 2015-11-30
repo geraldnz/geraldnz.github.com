@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meaning Seeking Creatures
-categories: [quotes]
+categories: [quotations]
 published: true
 sitemap:
   lastmod: 2015-11-16
