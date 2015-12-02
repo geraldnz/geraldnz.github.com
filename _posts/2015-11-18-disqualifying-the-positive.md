@@ -1,17 +1,13 @@
 ---
 layout: post
 title: Disqualifying the Positive
-categories: [therapies, terminology]
-published: false
+categories: [cognitivetherapy, cbt, terminology]
+published: true
 sitemap:
-  lastmod: 2015-11-18
+  lastmod: 2015-12-02
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
 ---
 
-Title 
-
-<span class="highlight">Disqualifying the Positive</span> 
-
-<a href="/family-counselling/" title="family counselling">family counselling</a> 
+In this distortion of thinking, <span class="highlight">Disqualifying the Positive</span>, the individual invalidates or ignores stimuli of a more "positive" nature. This can be by making excuses for positive things - "I didn't deserve this!", "This is just a fluke!" - or it can involve the individual not noticing the occurrence of positive events (usually while focusing heavily on more "negative" events and interpretations.
