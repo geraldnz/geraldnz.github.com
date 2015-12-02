@@ -1,7 +1,14 @@
 ---
 layout: page
 title: education
+published: false
+sitemap:
+  lastmod: 2015-11-18
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'no'
 ---
+
 
 The pages related to this topic are linked, below.
 
