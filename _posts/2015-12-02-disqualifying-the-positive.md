@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disqualifying the Positive
-categories: [cognitivetherapy, cbt, terminology]
+categories: [cbt, cognitivetherapy, terminology]
 published: true
 sitemap:
   lastmod: 2015-12-02
