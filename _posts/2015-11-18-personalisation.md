@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personalisation
-categories: [therapies, terminology]
+categories: [cbt, cognitivetherapy, terminology]
 published: false
 sitemap:
   lastmod: 2015-11-18
@@ -14,4 +14,4 @@ Title
 
 <span class="highlight">Personalisation</span> 
 
-<a href="/family-counselling/" title="family counselling">family counselling</a> 
+See also <a href="/cognitive-distortions/" title="Cognitive Distortions">Cognitive Distortions</a> .
