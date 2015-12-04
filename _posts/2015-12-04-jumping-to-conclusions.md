@@ -11,3 +11,5 @@ sitemap:
 ---
 
 <span class="highlight">Jumping to Conclusions</span> is a cognitive bias where an individual reaches conclusions that are generally negative with little or no evidence. This includes predicting negative results of actions or events and "mind reading", that is making assumptions about the state of mind or beliefs of others, without sufficient evidence.
+
+See also <a href="/cognitive-distortions/" title="Cognitive Distortions">Cognitive Distortions</a> .
