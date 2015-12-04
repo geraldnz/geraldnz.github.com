@@ -15,3 +15,4 @@ Title
 <span class="highlight">Should Statements</span> 
 
 See also <a href="/cognitive-distortions/" title="Cognitive Distortions">Cognitive Distortions</a> .
+
