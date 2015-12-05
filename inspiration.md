@@ -7,6 +7,6 @@ The pages linked below offer insight into counselling, inspire or otherwise inte
 
 <p></p><ul><p></p>
 
-<p></p><li><a href="http://gerald.nz/categories/quotations.html" title="quotations">quotations</a></li><p></p>
+<p></p><li><a href="http://gerald.nz/categories/quotations.html" title="quotations">Quotations</a></li><p></p>
 
 <p></p></ul><p></p>
