@@ -6,6 +6,9 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
+  
+    <p>&copy; 2014 - {{ site.time | date: '%Y' }}  {{ page.date | date_to_string }} Gerald Lee Jordan, MBA, MEd, MCouns
+</p>
 </div>
 
 <div> {% include twitter.html %}</div>
