@@ -3,7 +3,7 @@ layout: categories
 title: quotations
 ---
 
-The pages related to this topic are linked, below.
+Some of my favourite quotes are linked to, below:
 
  <ul>
  {% assign sorted_posts = (site.categories.['quotations'] | sort: 'title') %}
