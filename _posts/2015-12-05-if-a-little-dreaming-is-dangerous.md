@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If a little dreaming is dangerous
+title: If a Little Dreaming is Dangerous
 categories: [quotations]
 published: true
 sitemap:
