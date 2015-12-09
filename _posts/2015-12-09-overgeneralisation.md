@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Overgeneralisation 
-categories: [therapies, terminology]
+categories: [cbt, cognitivetherapy, terminology]
 published: false
 sitemap:
-  lastmod: 2015-11-18
+  lastmod: 2015-12-09
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
