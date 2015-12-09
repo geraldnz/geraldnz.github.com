@@ -13,9 +13,9 @@ layout: default
 <div>      <p>&copy; {{ page.date | date_to_string }} Gerald Lee Jordan, MBA, MEd, MCouns
 </p></div>
 <div class="related">
-  <h3>other posts</h3>
+  <h3>recent posts</h3>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+    {% for post in site.related_posts limit:5 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
