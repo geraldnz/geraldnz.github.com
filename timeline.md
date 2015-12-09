@@ -11,3 +11,9 @@ The posts on this site are listed below in sequence from newer to older.
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li></ul>
   {% endfor %}
+  
+    {% for post in site.posts %}
+  <ul><li>
+    {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+  </li></ul>
+  {% endfor %}
