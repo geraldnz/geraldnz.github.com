@@ -2,7 +2,7 @@
 layout: post
 title: Overgeneralisation 
 categories: [cbt, cognitivetherapy, terminology]
-published: false
+published: true
 sitemap:
   lastmod: 2015-12-09
   priority: 0.7
