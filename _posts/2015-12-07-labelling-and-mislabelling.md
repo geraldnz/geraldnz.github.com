@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Labelling and Mislabelling
-categories: [therapies, terminology]
+categories: [cbt, cognitivetherapy, terminology]
 published: true
 sitemap:
   lastmod: 2015-12-07
