@@ -13,7 +13,7 @@ sitemap:
 Made with sticks broken, glued with hearts undone,  
 found by children disappointed - the lake.  
 
-No point of egress, no way to show,  
+No point of egress, now no way to show,  
 their hearts laid open with desire for cake.  
 
 gl jordan
