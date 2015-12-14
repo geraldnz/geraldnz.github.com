@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Affect Management
-categories: [ptsd, terminology]
+categories: [terminology]
 published: false
 sitemap:
   lastmod: 2015-12-14
