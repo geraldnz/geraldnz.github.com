@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Must Never Be Afraid To Go Too Far
+title: We Must Never Be Afraid
 categories: [quotations]
 published: true
 sitemap:
