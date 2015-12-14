@@ -10,4 +10,4 @@ sitemap:
   exclude: 'no'
 ---
 
-“In a separation it is the one who is not really in love who says the more tender things.”(Marcel Proust)
+“In a separation it is the one who is not really in love who says the more tender things.” (Marcel Proust)
