@@ -2,7 +2,7 @@
 layout: post
 title: Intentional Human Traumas
 categories: [blog, ptsd]
-published: false
+published: true
 sitemap:
   lastmod: 2015-12-17
   priority: 0.7
