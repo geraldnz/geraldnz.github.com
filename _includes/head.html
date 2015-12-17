@@ -5,6 +5,9 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  
+  <!-- Canonical tag follows -->
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 
   <title>
     {% if page.title == "Home" %}
@@ -12,7 +15,6 @@
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
   </title>
 
   <!-- CSS -->
