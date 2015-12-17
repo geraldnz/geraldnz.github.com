@@ -12,6 +12,7 @@
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
   </title>
 
   <!-- CSS -->
