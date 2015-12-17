@@ -13,3 +13,4 @@ sitemap:
 <span class="highlight">Affect management</span> is 
 
 See also <a href="/cognitive-distortions/" title="Cognitive Distortions">Cognitive Distortions</a> .
+
