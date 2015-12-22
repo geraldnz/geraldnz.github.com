@@ -2,7 +2,7 @@
 layout: post
 title: Here and Now - Fritz Perls
 categories: [blog, gestalt]
-published: true
+published: false
 sitemap:
   lastmod: 2015-12-23
   priority: 0.7
@@ -10,13 +10,12 @@ sitemap:
   exclude: 'no'
 ---
 
-<span class="highlight">intentional human traumas</span>
+What does it mean to be in the "<span class="highlight">here and now</span>" and what does this mean for therapy?
+
+Fritz Perls introduced thew world to 
 
 
-<a href="/post-traumatic-stress-disorder/" title="Post-Traumatic Stress Disorder">PTSD</a> 
+<a href="/gestalt-therapy/" title="Gestalt Therapy">Gestalt Therapy</a> 
 
 
-<iframe width="90%" height="315" src="https://www.youtube.com/embed/6AAgeT1X5oI" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/6AAgeT1X5oI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6AAgeT1X5oI" frameborder="0" allowfullscreen></iframe>
