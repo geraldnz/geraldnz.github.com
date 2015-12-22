@@ -16,7 +16,7 @@ sitemap:
 <a href="/post-traumatic-stress-disorder/" title="Post-Traumatic Stress Disorder">PTSD</a> 
 
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/6AAgeT1X5oI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6AAgeT1X5oI" frameborder="0" allowfullscreen></iframe>
 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/6AAgeT1X5oI" frameborder="0" allowfullscreen></iframe>
