@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Here and Now - Fritz Perls
-categories: [blog, gestalt]
-published: false
+categories: [gestalt]
+published: true
 sitemap:
-  lastmod: 2015-12-23
+  lastmod: 2016-01-02
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
