@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here and Now - Fritz Perls
-categories: [gestalt]
+categories: [gestalt, videos]
 published: true
 sitemap:
   lastmod: 2016-01-02
